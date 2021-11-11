@@ -72,9 +72,9 @@ class MyHomePage extends StatelessWidget {
                   ),
                   ),
           ),
-              const SizedBox(height:10),
+              const SizedBox(height:40),
               NeumorphicButton(
-                child: Text('▶︎',
+                child: Text('    ▶︎    ',
                   style: TextStyle(
                     fontSize: 30,
                     color: Colors.black54,
